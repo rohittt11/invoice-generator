@@ -4,7 +4,7 @@ information, billing and shipping details, order specifics and item details and 
 invoice that matches a specified format.
 
 
-
+Here is this output of the small project.
 #Output
 
 ![Screenshot 2024-06-26 203227](https://github.com/rohittt11/invoice-generator/assets/160706032/3b42210f-509b-4cd4-84de-816bc5f3eabd)
