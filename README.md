@@ -7,6 +7,7 @@ invoice that matches a specified format.
 
 #Output
 
+![Screenshot 2024-06-26 203227](https://github.com/rohittt11/invoice-generator/assets/160706032/3b42210f-509b-4cd4-84de-816bc5f3eabd)
 
 
 ![Screenshot 2024-06-26 204645](https://github.com/rohittt11/invoice-generator/assets/160706032/e7ce1fb6-45a1-4346-a478-9b1d1cd7fc41)
