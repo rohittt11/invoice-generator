@@ -6,6 +6,7 @@ const InvoiceForm = () => {
     sellerDetails: {
       name: "",
       address: "",
+
       city: "",
       state: "",
       pincode: "",
