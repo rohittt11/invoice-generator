@@ -6,7 +6,10 @@ invoice that matches a specified format.
 
 
 #Output
-(https://github.com/rohittt11/invoice-generator/assets/160706032/858f0c84-7691-43c1-ae90-3435c44ffb1a)
+
+
+
+![Screenshot 2024-06-26 204645](https://github.com/rohittt11/invoice-generator/assets/160706032/e7ce1fb6-45a1-4346-a478-9b1d1cd7fc41)
 
 ![Screenshot 2024-06-26 204740](https://github.com/rohittt11/invoice-generator/assets/160706032/3928efe1-e04c-4e6e-bfc7-455088f57711)
 
